@@ -62,16 +62,29 @@
           </thead>
           <tbody>
             <tr *ngFor="let equipo of equipos">
+              <!-- 1. Nombre -->
               <td class="fw-semibold">{{ equipo.name }}</td>
-              <td><span class="badge bg-info text-dark">{{ equipo.equipment_type }}</span></td>
+
+              <!-- 2. Tipo -->
+              <td><span class="badge" [ngClass]="obtenerColorBadge(equipo.equipment_type)">{{ equipo.equipment_type }}</span></td>
+
+              <!-- 3. Marca / Modelo -->
               <td>{{ equipo.brand }} <br><small class="text-muted">{{ equipo.model }}</small></td>
+
+              <!-- 4. Número de Serie -->
               <td><code>{{ equipo.serial_number }}</code></td>
+
+              <!-- 5. Código de Inventario -->
               <td><code>{{ equipo.inventory_code }}</code></td>
+
+              <!-- 6. Ubicación -->
               <td>
                 <span *ngIf="equipo.location">
                   {{ equipo.location.name }} ({{ equipo.location.floor }})
                 </span>
               </td>
+
+              <!-- 7. Acciones -->
               <td class="text-end">
                 <button class="btn btn-sm btn-outline-primary me-2" (click)="prepararEdicion(equipo)">
                   Editar

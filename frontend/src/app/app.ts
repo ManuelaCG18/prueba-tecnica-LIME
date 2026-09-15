@@ -28,6 +28,31 @@ export class App implements OnInit {
     this.cargarEquipos();
   }
 
+  // Nuevo metodo para asignar colores segun el tipo de equipo
+  obtenerColorBadge(tipo: string): string {
+    const colores: any = {
+      'Surgical Aspirator': 'bg-primary-subtle text-primary-emphasis',
+      'Vital Signs Monitor': 'bg-success-subtle text-success-emphasis',
+      'Hospital Bed': 'bg-warning-subtle text-warning-emphasis',
+      'Microscope': 'bg-danger-subtle text-danger-emphasis',
+      'Medical Scale': 'bg-info-subtle text-info-emphasis',
+      'Surgical Light': 'bg-secondary-subtle text-secondary-emphasis',
+      'Electrocardiograph': 'bg-dark-subtle text-dark-emphasis',
+      'Centrifuge': 'bg-primary-subtle text-primary-emphasis',
+      'Nebulizer': 'bg-success-subtle text-success-emphasis',
+      'Sterilizer': 'bg-info-subtle text-info-emphasis',
+      'X-Ray Machine': 'bg-warning-subtle text-warning-emphasis',
+      'Ultrasound Machine': 'bg-danger-subtle text-danger-emphasis',
+      'Pulse Oximeter': 'bg-success-subtle text-success-emphasis',
+      'Anesthesia Machine': 'bg-primary-subtle text-primary-emphasis',
+      'Defibrillator': 'bg-danger-subtle text-danger-emphasis',
+      'Neonatal Incubator': 'bg-warning-subtle text-warning-emphasis',
+      'Autoclave': 'bg-secondary-subtle text-secondary-emphasis'
+    }
+
+    return colores[tipo] || 'bg-light text-dark border';
+  }
+
   // Cargar el catálogo de ubicaciones para el selector
   cargarUbicaciones(): void {
     this.apiService.getUbicaciones().subscribe({
