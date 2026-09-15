@@ -1,7 +1,8 @@
 import express from 'express';
 import cors from 'cors';
 import ubicacionesRoutes from './routes/ubicaciones';
-// Pronto agregaremos la de equipos aquí
+import equiposRoutes from './routes/equipos';
+
 
 const app = express();
 
@@ -11,5 +12,6 @@ app.use(express.json());
 
 // rutas
 app.use('/ubicaciones', ubicacionesRoutes);
+app.use('/equipos', equiposRoutes);
 
 export default app;
