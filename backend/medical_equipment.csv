@@ -1,0 +1,301 @@
+name,equipment_type,brand,model,serial_number,inventory_code,entry_date,location,floor
+Mechanical Ventilator,Mechanical Ventilator,Mindray,EC-381,SN-2023-0001-242,INV-0001,2023-07-08,Inpatient Ward,Floor 2
+Mechanical Ventilator,Mechanical Ventilator,Welch Allyn,MX-704,SN-2021-0002-130,INV-0002,2021-05-15,Clinical Laboratory,Floor 2
+Electrocardiograph,Electrocardiograph,Drger,V-617,SN-2021-0003-674,INV-0003,2021-04-23,Biomedical Storage,Basement
+Ultrasound Machine,Ultrasound Machine,Welch Allyn,L-325,SN-2024-0004-928,INV-0004,2024-02-18,Medical Imaging,Floor 1
+Vital Signs Monitor,Vital Signs Monitor,GE Healthcare,EC-532,SN-2024-0005-259,INV-0005,2024-02-17,Outpatient Clinic,Floor 1
+Ultrasound Machine,Ultrasound Machine,Medtronic,MX-194,SN-2022-0006-467,INV-0006,2022-02-05,Clinical Laboratory,Floor 2
+Anesthesia Machine,Anesthesia Machine,Nihon Kohden,A-926,SN-2026-0007-649,INV-0007,2026-03-01,Emergency Department,Floor 1
+Mechanical Ventilator,Mechanical Ventilator,B. Braun,MX-665,SN-2025-0008-691,INV-0008,2025-01-25,Operating Rooms,Floor 1
+Ultrasound Machine,Ultrasound Machine,Philips,MX-777,SN-2024-0009-181,INV-0009,2024-04-04,Inpatient Ward,Floor 2
+X-Ray Machine,X-Ray Machine,Philips,L-384,SN-2025-0010-266,INV-0010,2025-02-07,Medical Imaging,Floor 1
+Anesthesia Machine,Anesthesia Machine,Medtronic,V-786,SN-2021-0011-723,INV-0011,2021-10-24,Operating Rooms,Floor 1
+Hospital Bed,Hospital Bed,Welch Allyn,EC-350,SN-2026-0012-488,INV-0012,2026-03-13,Neonatal ICU,Floor 3
+Sterilizer,Sterilizer,Welch Allyn,V-801,SN-2021-0013-334,INV-0013,2021-08-22,Outpatient Clinic,Floor 1
+Defibrillator,Defibrillator,Medtronic,L-374,SN-2023-0014-680,INV-0014,2023-05-19,Adult ICU,Floor 3
+Surgical Aspirator,Surgical Aspirator,Drger,EC-611,SN-2026-0015-246,INV-0015,2026-02-27,Clinical Laboratory,Floor 2
+Sterilizer,Sterilizer,GE Healthcare,V-862,SN-2023-0016-864,INV-0016,2023-12-17,Pediatrics,Floor 2
+Microscope,Microscope,B. Braun,PM-508,SN-2023-0017-241,INV-0017,2023-06-22,Outpatient Clinic,Floor 1
+Centrifuge,Centrifuge,Fresenius,MX-873,SN-2022-0018-256,INV-0018,2022-03-30,Emergency Department,Floor 1
+Hospital Bed,Hospital Bed,B. Braun,PM-165,SN-2025-0019-710,INV-0019,2025-04-17,Clinical Laboratory,Floor 2
+Medical Scale,Medical Scale,Welch Allyn,A-666,SN-2022-0020-798,INV-0020,2022-04-19,Emergency Department,Floor 1
+Hematology Analyzer,Hematology Analyzer,Siemens,EC-448,SN-2024-0021-545,INV-0021,2024-04-21,Adult ICU,Floor 3
+Hospital Bed,Hospital Bed,Fresenius,MX-839,SN-2026-0022-880,INV-0022,2026-08-17,Operating Rooms,Floor 1
+Hospital Bed,Hospital Bed,Welch Allyn,MX-991,SN-2023-0023-256,INV-0023,2023-03-30,Operating Rooms,Floor 1
+Anesthesia Machine,Anesthesia Machine,GE Healthcare,PM-897,SN-2021-0024-713,INV-0024,2021-01-07,Pediatrics,Floor 2
+Surgical Aspirator,Surgical Aspirator,Fresenius,MX-214,SN-2024-0025-345,INV-0025,2024-06-17,Outpatient Clinic,Floor 1
+Defibrillator,Defibrillator,Drger,PM-180,SN-2026-0026-935,INV-0026,2026-06-18,Adult ICU,Floor 3
+Electrocardiograph,Electrocardiograph,Welch Allyn,V-231,SN-2022-0027-371,INV-0027,2022-11-12,Medical Imaging,Floor 1
+Centrifuge,Centrifuge,Nihon Kohden,L-316,SN-2023-0028-830,INV-0028,2023-04-08,Pediatrics,Floor 2
+Autoclave,Autoclave,B. Braun,EC-765,SN-2025-0029-629,INV-0029,2025-12-04,Outpatient Clinic,Floor 1
+Medical Scale,Medical Scale,Philips,V-330,SN-2024-0030-121,INV-0030,2024-10-20,Adult ICU,Floor 3
+Microscope,Microscope,Welch Allyn,V-702,SN-2021-0031-172,INV-0031,2021-02-03,Inpatient Ward,Floor 2
+Defibrillator,Defibrillator,Drger,MX-132,SN-2021-0032-626,INV-0032,2021-10-22,Outpatient Clinic,Floor 1
+X-Ray Machine,X-Ray Machine,Siemens,EC-597,SN-2022-0033-840,INV-0033,2022-06-30,Inpatient Ward,Floor 2
+Microscope,Microscope,Nihon Kohden,L-348,SN-2025-0034-294,INV-0034,2025-07-30,Medical Imaging,Floor 1
+Mechanical Ventilator,Mechanical Ventilator,Philips,EC-541,SN-2025-0035-520,INV-0035,2025-10-05,Outpatient Clinic,Floor 1
+Medical Scale,Medical Scale,Mindray,EC-769,SN-2021-0036-512,INV-0036,2021-09-10,Adult ICU,Floor 3
+Surgical Aspirator,Surgical Aspirator,Philips,V-296,SN-2026-0037-243,INV-0037,2026-01-16,Inpatient Ward,Floor 2
+Pulse Oximeter,Pulse Oximeter,GE Healthcare,A-573,SN-2021-0038-553,INV-0038,2021-11-09,Inpatient Ward,Floor 2
+Hematology Analyzer,Hematology Analyzer,Philips,MX-767,SN-2021-0039-195,INV-0039,2021-03-06,Pediatrics,Floor 2
+X-Ray Machine,X-Ray Machine,GE Healthcare,L-597,SN-2023-0040-985,INV-0040,2023-05-30,Medical Imaging,Floor 1
+Neonatal Incubator,Neonatal Incubator,Mindray,V-488,SN-2025-0041-371,INV-0041,2025-05-23,Emergency Department,Floor 1
+Medical Scale,Medical Scale,Siemens,L-813,SN-2026-0042-258,INV-0042,2026-06-21,Pediatrics,Floor 2
+Ultrasound Machine,Ultrasound Machine,Siemens,V-159,SN-2021-0043-865,INV-0043,2021-09-11,Biomedical Storage,Basement
+Surgical Aspirator,Surgical Aspirator,Mindray,MX-698,SN-2022-0044-158,INV-0044,2022-10-11,Medical Imaging,Floor 1
+Centrifuge,Centrifuge,Philips,V-170,SN-2021-0045-791,INV-0045,2021-10-10,Biomedical Storage,Basement
+X-Ray Machine,X-Ray Machine,B. Braun,MX-683,SN-2021-0046-734,INV-0046,2021-06-16,Inpatient Ward,Floor 2
+Electrocardiograph,Electrocardiograph,B. Braun,EC-697,SN-2024-0047-367,INV-0047,2024-07-23,Biomedical Storage,Basement
+Ultrasound Machine,Ultrasound Machine,Medtronic,V-371,SN-2022-0048-787,INV-0048,2022-06-25,Clinical Laboratory,Floor 2
+Autoclave,Autoclave,Fresenius,A-869,SN-2021-0049-569,INV-0049,2021-02-12,Adult ICU,Floor 3
+Nebulizer,Nebulizer,Nihon Kohden,MX-175,SN-2023-0050-618,INV-0050,2023-05-28,Pediatrics,Floor 2
+Sterilizer,Sterilizer,GE Healthcare,A-170,SN-2025-0051-391,INV-0051,2025-02-26,Inpatient Ward,Floor 2
+Hospital Bed,Hospital Bed,Fresenius,PM-820,SN-2021-0052-783,INV-0052,2021-02-06,Operating Rooms,Floor 1
+Hematology Analyzer,Hematology Analyzer,Siemens,EC-206,SN-2023-0053-218,INV-0053,2023-12-24,Neonatal ICU,Floor 3
+Mechanical Ventilator,Mechanical Ventilator,Welch Allyn,V-378,SN-2023-0054-834,INV-0054,2023-05-17,Operating Rooms,Floor 1
+Surgical Aspirator,Surgical Aspirator,Drger,EC-749,SN-2026-0055-357,INV-0055,2026-06-29,Operating Rooms,Floor 1
+Defibrillator,Defibrillator,Philips,EC-533,SN-2021-0056-103,INV-0056,2021-07-04,Operating Rooms,Floor 1
+Surgical Aspirator,Surgical Aspirator,GE Healthcare,EC-368,SN-2025-0057-664,INV-0057,2025-12-19,Neonatal ICU,Floor 3
+Pulse Oximeter,Pulse Oximeter,Welch Allyn,MX-214,SN-2022-0058-658,INV-0058,2022-09-07,Adult ICU,Floor 3
+Defibrillator,Defibrillator,Medtronic,PM-665,SN-2025-0059-230,INV-0059,2025-10-31,Neonatal ICU,Floor 3
+Defibrillator,Defibrillator,Siemens,A-915,SN-2025-0060-315,INV-0060,2025-01-09,Emergency Department,Floor 1
+X-Ray Machine,X-Ray Machine,Philips,A-898,SN-2025-0061-735,INV-0061,2025-07-27,Pediatrics,Floor 2
+Infusion Pump,Infusion Pump,Drger,V-919,SN-2025-0062-125,INV-0062,2025-08-20,Neonatal ICU,Floor 3
+Hospital Bed,Hospital Bed,Medtronic,L-921,SN-2024-0063-263,INV-0063,2024-01-02,Inpatient Ward,Floor 2
+Mechanical Ventilator,Mechanical Ventilator,B. Braun,MX-979,SN-2023-0064-304,INV-0064,2023-07-05,Medical Imaging,Floor 1
+Medical Scale,Medical Scale,Medtronic,A-940,SN-2023-0065-124,INV-0065,2023-07-07,Inpatient Ward,Floor 2
+Ultrasound Machine,Ultrasound Machine,B. Braun,A-385,SN-2024-0066-459,INV-0066,2024-02-22,Adult ICU,Floor 3
+Centrifuge,Centrifuge,B. Braun,EC-963,SN-2024-0067-128,INV-0067,2024-09-22,Pediatrics,Floor 2
+Mechanical Ventilator,Mechanical Ventilator,Siemens,V-694,SN-2021-0068-211,INV-0068,2021-06-10,Operating Rooms,Floor 1
+Nebulizer,Nebulizer,B. Braun,A-846,SN-2025-0069-720,INV-0069,2025-11-27,Outpatient Clinic,Floor 1
+Centrifuge,Centrifuge,Philips,L-690,SN-2023-0070-145,INV-0070,2023-11-14,Inpatient Ward,Floor 2
+Pulse Oximeter,Pulse Oximeter,Mindray,PM-925,SN-2023-0071-472,INV-0071,2023-03-23,Pediatrics,Floor 2
+Pulse Oximeter,Pulse Oximeter,Philips,EC-438,SN-2024-0072-779,INV-0072,2024-07-13,Biomedical Storage,Basement
+Mechanical Ventilator,Mechanical Ventilator,Siemens,PM-416,SN-2024-0073-512,INV-0073,2024-09-02,Clinical Laboratory,Floor 2
+Autoclave,Autoclave,Welch Allyn,V-296,SN-2025-0074-793,INV-0074,2025-04-06,Clinical Laboratory,Floor 2
+Hospital Bed,Hospital Bed,Nihon Kohden,PM-408,SN-2021-0075-411,INV-0075,2021-01-06,Clinical Laboratory,Floor 2
+Autoclave,Autoclave,Drger,L-904,SN-2024-0076-576,INV-0076,2024-08-16,Biomedical Storage,Basement
+Medical Scale,Medical Scale,Fresenius,EC-318,SN-2026-0077-912,INV-0077,2026-04-27,Pediatrics,Floor 2
+Hospital Bed,Hospital Bed,Philips,A-627,SN-2024-0078-195,INV-0078,2024-10-08,Biomedical Storage,Basement
+X-Ray Machine,X-Ray Machine,Siemens,V-925,SN-2022-0079-125,INV-0079,2022-08-31,Inpatient Ward,Floor 2
+Defibrillator,Defibrillator,Drger,L-725,SN-2026-0080-524,INV-0080,2026-02-13,Adult ICU,Floor 3
+Microscope,Microscope,Drger,EC-813,SN-2026-0081-509,INV-0081,2026-07-22,Clinical Laboratory,Floor 2
+X-Ray Machine,X-Ray Machine,GE Healthcare,EC-804,SN-2022-0082-897,INV-0082,2022-03-17,Emergency Department,Floor 1
+Pulse Oximeter,Pulse Oximeter,Drger,V-923,SN-2026-0083-151,INV-0083,2026-03-22,Pediatrics,Floor 2
+Hematology Analyzer,Hematology Analyzer,Drger,MX-567,SN-2026-0084-783,INV-0084,2026-03-23,Neonatal ICU,Floor 3
+Centrifuge,Centrifuge,Welch Allyn,PM-424,SN-2025-0085-950,INV-0085,2025-10-18,Medical Imaging,Floor 1
+Hematology Analyzer,Hematology Analyzer,Fresenius,V-861,SN-2026-0086-365,INV-0086,2026-01-22,Medical Imaging,Floor 1
+X-Ray Machine,X-Ray Machine,Siemens,PM-596,SN-2024-0087-550,INV-0087,2024-02-03,Inpatient Ward,Floor 2
+Electrocardiograph,Electrocardiograph,Siemens,V-378,SN-2024-0088-653,INV-0088,2024-08-06,Outpatient Clinic,Floor 1
+Electrocardiograph,Electrocardiograph,GE Healthcare,V-336,SN-2022-0089-823,INV-0089,2022-09-22,Clinical Laboratory,Floor 2
+Ultrasound Machine,Ultrasound Machine,Philips,L-517,SN-2026-0090-525,INV-0090,2026-03-28,Outpatient Clinic,Floor 1
+Defibrillator,Defibrillator,Drger,L-498,SN-2021-0091-977,INV-0091,2021-03-26,Biomedical Storage,Basement
+Microscope,Microscope,B. Braun,L-106,SN-2024-0092-871,INV-0092,2024-05-12,Outpatient Clinic,Floor 1
+Neonatal Incubator,Neonatal Incubator,B. Braun,PM-865,SN-2023-0093-599,INV-0093,2023-06-27,Pediatrics,Floor 2
+X-Ray Machine,X-Ray Machine,Siemens,L-597,SN-2025-0094-444,INV-0094,2025-05-16,Emergency Department,Floor 1
+Neonatal Incubator,Neonatal Incubator,GE Healthcare,L-230,SN-2021-0095-503,INV-0095,2021-04-25,Biomedical Storage,Basement
+Microscope,Microscope,Nihon Kohden,EC-127,SN-2025-0096-238,INV-0096,2025-10-26,Adult ICU,Floor 3
+Medical Scale,Medical Scale,GE Healthcare,MX-366,SN-2024-0097-316,INV-0097,2024-09-06,Clinical Laboratory,Floor 2
+Medical Scale,Medical Scale,Medtronic,A-879,SN-2024-0098-870,INV-0098,2024-02-18,Clinical Laboratory,Floor 2
+Pulse Oximeter,Pulse Oximeter,Siemens,MX-581,SN-2021-0099-458,INV-0099,2021-08-06,Emergency Department,Floor 1
+X-Ray Machine,X-Ray Machine,Philips,EC-141,SN-2023-0100-304,INV-0100,2023-10-14,Emergency Department,Floor 1
+Vital Signs Monitor,Vital Signs Monitor,Nihon Kohden,V-344,SN-2026-0101-785,INV-0101,2026-04-28,Neonatal ICU,Floor 3
+Mechanical Ventilator,Mechanical Ventilator,Nihon Kohden,V-576,SN-2025-0102-271,INV-0102,2025-02-23,Operating Rooms,Floor 1
+Nebulizer,Nebulizer,Nihon Kohden,EC-835,SN-2022-0103-418,INV-0103,2022-11-06,Adult ICU,Floor 3
+Mechanical Ventilator,Mechanical Ventilator,Nihon Kohden,MX-419,SN-2025-0104-506,INV-0104,2025-03-22,Biomedical Storage,Basement
+Ultrasound Machine,Ultrasound Machine,Philips,PM-807,SN-2022-0105-813,INV-0105,2022-02-26,Inpatient Ward,Floor 2
+Autoclave,Autoclave,Nihon Kohden,MX-915,SN-2021-0106-455,INV-0106,2021-06-22,Biomedical Storage,Basement
+Hematology Analyzer,Hematology Analyzer,B. Braun,EC-479,SN-2024-0107-112,INV-0107,2024-11-02,Adult ICU,Floor 3
+Pulse Oximeter,Pulse Oximeter,Fresenius,MX-543,SN-2026-0108-824,INV-0108,2026-03-03,Outpatient Clinic,Floor 1
+Infusion Pump,Infusion Pump,B. Braun,V-851,SN-2024-0109-730,INV-0109,2024-01-16,Pediatrics,Floor 2
+Hematology Analyzer,Hematology Analyzer,Fresenius,L-546,SN-2024-0110-430,INV-0110,2024-01-09,Biomedical Storage,Basement
+X-Ray Machine,X-Ray Machine,Philips,A-561,SN-2026-0111-683,INV-0111,2026-03-23,Inpatient Ward,Floor 2
+Nebulizer,Nebulizer,B. Braun,A-129,SN-2024-0112-286,INV-0112,2024-08-28,Medical Imaging,Floor 1
+Surgical Light,Surgical Light,Drger,A-916,SN-2024-0113-386,INV-0113,2024-10-30,Operating Rooms,Floor 1
+Nebulizer,Nebulizer,Siemens,PM-110,SN-2023-0114-187,INV-0114,2023-02-26,Pediatrics,Floor 2
+X-Ray Machine,X-Ray Machine,B. Braun,L-668,SN-2026-0115-761,INV-0115,2026-05-09,Inpatient Ward,Floor 2
+Surgical Light,Surgical Light,Fresenius,MX-195,SN-2023-0116-514,INV-0116,2023-07-01,Operating Rooms,Floor 1
+X-Ray Machine,X-Ray Machine,Siemens,EC-695,SN-2026-0117-666,INV-0117,2026-04-27,Outpatient Clinic,Floor 1
+Centrifuge,Centrifuge,Medtronic,L-863,SN-2024-0118-460,INV-0118,2024-09-20,Pediatrics,Floor 2
+Medical Scale,Medical Scale,Siemens,A-357,SN-2022-0119-838,INV-0119,2022-05-14,Inpatient Ward,Floor 2
+Ultrasound Machine,Ultrasound Machine,Medtronic,MX-860,SN-2023-0120-296,INV-0120,2023-02-02,Pediatrics,Floor 2
+Ultrasound Machine,Ultrasound Machine,Fresenius,A-841,SN-2024-0121-202,INV-0121,2024-03-09,Biomedical Storage,Basement
+Ultrasound Machine,Ultrasound Machine,Siemens,V-469,SN-2024-0122-114,INV-0122,2024-05-27,Neonatal ICU,Floor 3
+Hematology Analyzer,Hematology Analyzer,GE Healthcare,A-146,SN-2024-0123-814,INV-0123,2024-04-15,Emergency Department,Floor 1
+Infusion Pump,Infusion Pump,Fresenius,MX-993,SN-2024-0124-580,INV-0124,2024-03-14,Emergency Department,Floor 1
+Surgical Light,Surgical Light,Fresenius,A-288,SN-2023-0125-982,INV-0125,2023-11-05,Emergency Department,Floor 1
+Surgical Light,Surgical Light,Philips,MX-510,SN-2021-0126-690,INV-0126,2021-11-04,Medical Imaging,Floor 1
+Defibrillator,Defibrillator,GE Healthcare,V-930,SN-2024-0127-187,INV-0127,2024-06-02,Biomedical Storage,Basement
+X-Ray Machine,X-Ray Machine,Philips,PM-882,SN-2023-0128-894,INV-0128,2023-07-18,Clinical Laboratory,Floor 2
+Centrifuge,Centrifuge,B. Braun,L-553,SN-2025-0129-412,INV-0129,2025-10-27,Operating Rooms,Floor 1
+Microscope,Microscope,Nihon Kohden,MX-724,SN-2023-0130-740,INV-0130,2023-05-06,Adult ICU,Floor 3
+Ultrasound Machine,Ultrasound Machine,Siemens,EC-183,SN-2023-0131-277,INV-0131,2023-09-14,Neonatal ICU,Floor 3
+Hematology Analyzer,Hematology Analyzer,Philips,V-102,SN-2026-0132-805,INV-0132,2026-01-24,Clinical Laboratory,Floor 2
+Nebulizer,Nebulizer,Fresenius,A-133,SN-2024-0133-823,INV-0133,2024-03-30,Inpatient Ward,Floor 2
+Autoclave,Autoclave,Fresenius,MX-803,SN-2023-0134-906,INV-0134,2023-12-24,Inpatient Ward,Floor 2
+Microscope,Microscope,Drger,L-217,SN-2023-0135-763,INV-0135,2023-07-14,Pediatrics,Floor 2
+Infusion Pump,Infusion Pump,Siemens,V-173,SN-2022-0136-911,INV-0136,2022-11-15,Emergency Department,Floor 1
+Autoclave,Autoclave,Nihon Kohden,EC-944,SN-2024-0137-549,INV-0137,2024-04-01,Biomedical Storage,Basement
+Mechanical Ventilator,Mechanical Ventilator,Fresenius,EC-411,SN-2024-0138-612,INV-0138,2024-01-25,Clinical Laboratory,Floor 2
+Hematology Analyzer,Hematology Analyzer,Fresenius,L-182,SN-2021-0139-542,INV-0139,2021-06-17,Biomedical Storage,Basement
+Surgical Aspirator,Surgical Aspirator,Nihon Kohden,A-126,SN-2023-0140-790,INV-0140,2023-07-31,Adult ICU,Floor 3
+Microscope,Microscope,Nihon Kohden,MX-883,SN-2021-0141-881,INV-0141,2021-06-18,Operating Rooms,Floor 1
+Hospital Bed,Hospital Bed,Fresenius,PM-767,SN-2024-0142-285,INV-0142,2024-02-18,Medical Imaging,Floor 1
+Microscope,Microscope,B. Braun,EC-933,SN-2022-0143-581,INV-0143,2022-01-13,Medical Imaging,Floor 1
+Anesthesia Machine,Anesthesia Machine,B. Braun,A-428,SN-2022-0144-437,INV-0144,2022-10-25,Adult ICU,Floor 3
+Pulse Oximeter,Pulse Oximeter,Fresenius,A-778,SN-2021-0145-565,INV-0145,2021-06-04,Clinical Laboratory,Floor 2
+Electrocardiograph,Electrocardiograph,Medtronic,A-431,SN-2025-0146-985,INV-0146,2025-07-18,Adult ICU,Floor 3
+Centrifuge,Centrifuge,Mindray,EC-990,SN-2026-0147-523,INV-0147,2026-03-12,Pediatrics,Floor 2
+Defibrillator,Defibrillator,Drger,PM-470,SN-2026-0148-740,INV-0148,2026-08-08,Biomedical Storage,Basement
+Medical Scale,Medical Scale,Mindray,V-373,SN-2022-0149-394,INV-0149,2022-06-25,Pediatrics,Floor 2
+Medical Scale,Medical Scale,Fresenius,MX-129,SN-2023-0150-826,INV-0150,2023-09-12,Biomedical Storage,Basement
+Hospital Bed,Hospital Bed,Siemens,PM-114,SN-2025-0151-195,INV-0151,2025-08-03,Pediatrics,Floor 2
+X-Ray Machine,X-Ray Machine,Philips,L-220,SN-2026-0152-833,INV-0152,2026-08-08,Neonatal ICU,Floor 3
+Autoclave,Autoclave,Welch Allyn,EC-379,SN-2026-0153-583,INV-0153,2026-06-04,Clinical Laboratory,Floor 2
+X-Ray Machine,X-Ray Machine,Fresenius,PM-248,SN-2023-0154-713,INV-0154,2023-02-24,Clinical Laboratory,Floor 2
+Centrifuge,Centrifuge,GE Healthcare,MX-382,SN-2024-0155-906,INV-0155,2024-10-28,Clinical Laboratory,Floor 2
+Centrifuge,Centrifuge,Siemens,MX-389,SN-2026-0156-986,INV-0156,2026-07-03,Operating Rooms,Floor 1
+Infusion Pump,Infusion Pump,Fresenius,PM-595,SN-2024-0157-665,INV-0157,2024-09-27,Outpatient Clinic,Floor 1
+Hematology Analyzer,Hematology Analyzer,B. Braun,L-429,SN-2023-0158-685,INV-0158,2023-09-10,Inpatient Ward,Floor 2
+Neonatal Incubator,Neonatal Incubator,Drger,L-144,SN-2026-0159-822,INV-0159,2026-04-26,Outpatient Clinic,Floor 1
+Neonatal Incubator,Neonatal Incubator,B. Braun,EC-911,SN-2026-0160-137,INV-0160,2026-07-26,Neonatal ICU,Floor 3
+Infusion Pump,Infusion Pump,Welch Allyn,PM-439,SN-2025-0161-202,INV-0161,2025-12-13,Adult ICU,Floor 3
+Centrifuge,Centrifuge,Fresenius,MX-839,SN-2025-0162-991,INV-0162,2025-08-11,Neonatal ICU,Floor 3
+Infusion Pump,Infusion Pump,Philips,L-900,SN-2024-0163-738,INV-0163,2024-10-22,Operating Rooms,Floor 1
+Neonatal Incubator,Neonatal Incubator,Philips,A-972,SN-2025-0164-424,INV-0164,2025-04-10,Pediatrics,Floor 2
+Surgical Light,Surgical Light,Welch Allyn,MX-732,SN-2023-0165-746,INV-0165,2023-08-24,Adult ICU,Floor 3
+Autoclave,Autoclave,Drger,EC-192,SN-2022-0166-878,INV-0166,2022-02-12,Clinical Laboratory,Floor 2
+Mechanical Ventilator,Mechanical Ventilator,Fresenius,V-810,SN-2021-0167-147,INV-0167,2021-05-03,Operating Rooms,Floor 1
+Surgical Aspirator,Surgical Aspirator,Mindray,A-467,SN-2025-0168-249,INV-0168,2025-11-04,Outpatient Clinic,Floor 1
+X-Ray Machine,X-Ray Machine,Welch Allyn,L-679,SN-2022-0169-279,INV-0169,2022-12-02,Neonatal ICU,Floor 3
+Electrocardiograph,Electrocardiograph,Nihon Kohden,L-734,SN-2026-0170-697,INV-0170,2026-08-05,Inpatient Ward,Floor 2
+Infusion Pump,Infusion Pump,Drger,L-753,SN-2026-0171-361,INV-0171,2026-03-02,Operating Rooms,Floor 1
+Vital Signs Monitor,Vital Signs Monitor,Fresenius,A-793,SN-2022-0172-175,INV-0172,2022-10-14,Pediatrics,Floor 2
+Medical Scale,Medical Scale,Medtronic,PM-406,SN-2023-0173-567,INV-0173,2023-10-26,Clinical Laboratory,Floor 2
+Autoclave,Autoclave,Drger,L-973,SN-2022-0174-342,INV-0174,2022-03-17,Medical Imaging,Floor 1
+Neonatal Incubator,Neonatal Incubator,Nihon Kohden,A-688,SN-2024-0175-122,INV-0175,2024-04-28,Operating Rooms,Floor 1
+Neonatal Incubator,Neonatal Incubator,Siemens,MX-679,SN-2026-0176-952,INV-0176,2026-08-01,Emergency Department,Floor 1
+Autoclave,Autoclave,Drger,PM-921,SN-2023-0177-751,INV-0177,2023-06-21,Outpatient Clinic,Floor 1
+Ultrasound Machine,Ultrasound Machine,Nihon Kohden,A-794,SN-2022-0178-742,INV-0178,2022-02-06,Neonatal ICU,Floor 3
+Defibrillator,Defibrillator,Siemens,L-134,SN-2025-0179-849,INV-0179,2025-02-07,Biomedical Storage,Basement
+Infusion Pump,Infusion Pump,Philips,A-434,SN-2022-0180-305,INV-0180,2022-12-25,Clinical Laboratory,Floor 2
+Infusion Pump,Infusion Pump,Welch Allyn,A-643,SN-2024-0181-950,INV-0181,2024-01-26,Pediatrics,Floor 2
+Hospital Bed,Hospital Bed,Siemens,L-925,SN-2024-0182-923,INV-0182,2024-10-23,Operating Rooms,Floor 1
+Mechanical Ventilator,Mechanical Ventilator,Fresenius,MX-244,SN-2025-0183-966,INV-0183,2025-06-20,Inpatient Ward,Floor 2
+Hematology Analyzer,Hematology Analyzer,Medtronic,MX-909,SN-2021-0184-370,INV-0184,2021-03-03,Clinical Laboratory,Floor 2
+Hematology Analyzer,Hematology Analyzer,Philips,L-477,SN-2025-0185-942,INV-0185,2025-04-14,Operating Rooms,Floor 1
+Anesthesia Machine,Anesthesia Machine,Philips,EC-339,SN-2021-0186-734,INV-0186,2021-04-17,Medical Imaging,Floor 1
+Hematology Analyzer,Hematology Analyzer,Medtronic,PM-326,SN-2026-0187-817,INV-0187,2026-03-21,Adult ICU,Floor 3
+Autoclave,Autoclave,B. Braun,MX-243,SN-2021-0188-411,INV-0188,2021-06-06,Emergency Department,Floor 1
+Surgical Light,Surgical Light,Philips,MX-340,SN-2022-0189-497,INV-0189,2022-07-14,Pediatrics,Floor 2
+Medical Scale,Medical Scale,Medtronic,EC-860,SN-2025-0190-701,INV-0190,2025-09-17,Pediatrics,Floor 2
+Infusion Pump,Infusion Pump,B. Braun,EC-201,SN-2025-0191-386,INV-0191,2025-08-03,Medical Imaging,Floor 1
+Defibrillator,Defibrillator,Medtronic,V-554,SN-2023-0192-975,INV-0192,2023-08-30,Medical Imaging,Floor 1
+Anesthesia Machine,Anesthesia Machine,Philips,EC-476,SN-2025-0193-162,INV-0193,2025-01-13,Pediatrics,Floor 2
+Neonatal Incubator,Neonatal Incubator,Siemens,V-225,SN-2022-0194-778,INV-0194,2022-01-15,Medical Imaging,Floor 1
+Ultrasound Machine,Ultrasound Machine,Nihon Kohden,MX-151,SN-2023-0195-228,INV-0195,2023-09-29,Outpatient Clinic,Floor 1
+Microscope,Microscope,Drger,MX-949,SN-2023-0196-700,INV-0196,2023-05-03,Pediatrics,Floor 2
+Ultrasound Machine,Ultrasound Machine,Drger,A-892,SN-2021-0197-383,INV-0197,2021-01-16,Neonatal ICU,Floor 3
+Infusion Pump,Infusion Pump,GE Healthcare,PM-356,SN-2022-0198-776,INV-0198,2022-03-31,Neonatal ICU,Floor 3
+Vital Signs Monitor,Vital Signs Monitor,GE Healthcare,MX-466,SN-2024-0199-116,INV-0199,2024-08-23,Inpatient Ward,Floor 2
+Hospital Bed,Hospital Bed,Siemens,MX-229,SN-2022-0200-863,INV-0200,2022-04-15,Clinical Laboratory,Floor 2
+Electrocardiograph,Electrocardiograph,Fresenius,L-896,SN-2022-0201-562,INV-0201,2022-03-27,Outpatient Clinic,Floor 1
+Centrifuge,Centrifuge,Drger,PM-144,SN-2024-0202-569,INV-0202,2024-05-24,Pediatrics,Floor 2
+Vital Signs Monitor,Vital Signs Monitor,Mindray,L-967,SN-2025-0203-802,INV-0203,2025-10-17,Clinical Laboratory,Floor 2
+Mechanical Ventilator,Mechanical Ventilator,Fresenius,EC-554,SN-2021-0204-429,INV-0204,2021-12-01,Adult ICU,Floor 3
+Nebulizer,Nebulizer,GE Healthcare,MX-229,SN-2024-0205-490,INV-0205,2024-08-28,Operating Rooms,Floor 1
+Nebulizer,Nebulizer,Welch Allyn,A-564,SN-2025-0206-201,INV-0206,2025-11-02,Pediatrics,Floor 2
+Mechanical Ventilator,Mechanical Ventilator,Welch Allyn,EC-986,SN-2025-0207-562,INV-0207,2025-11-01,Inpatient Ward,Floor 2
+X-Ray Machine,X-Ray Machine,B. Braun,A-947,SN-2025-0208-525,INV-0208,2025-06-26,Medical Imaging,Floor 1
+Mechanical Ventilator,Mechanical Ventilator,Medtronic,L-420,SN-2025-0209-256,INV-0209,2025-03-18,Operating Rooms,Floor 1
+Surgical Light,Surgical Light,Philips,MX-951,SN-2022-0210-542,INV-0210,2022-01-21,Adult ICU,Floor 3
+Mechanical Ventilator,Mechanical Ventilator,Medtronic,V-669,SN-2024-0211-786,INV-0211,2024-09-16,Emergency Department,Floor 1
+Mechanical Ventilator,Mechanical Ventilator,B. Braun,A-994,SN-2021-0212-394,INV-0212,2021-08-03,Clinical Laboratory,Floor 2
+Nebulizer,Nebulizer,Siemens,A-206,SN-2023-0213-258,INV-0213,2023-05-26,Biomedical Storage,Basement
+Surgical Light,Surgical Light,Drger,MX-458,SN-2025-0214-217,INV-0214,2025-02-18,Pediatrics,Floor 2
+Sterilizer,Sterilizer,Nihon Kohden,V-926,SN-2021-0215-723,INV-0215,2021-04-22,Clinical Laboratory,Floor 2
+Sterilizer,Sterilizer,Mindray,V-379,SN-2024-0216-459,INV-0216,2024-10-27,Operating Rooms,Floor 1
+Vital Signs Monitor,Vital Signs Monitor,GE Healthcare,V-679,SN-2021-0217-245,INV-0217,2021-10-17,Clinical Laboratory,Floor 2
+Vital Signs Monitor,Vital Signs Monitor,Philips,EC-643,SN-2025-0218-529,INV-0218,2025-03-25,Inpatient Ward,Floor 2
+Medical Scale,Medical Scale,Medtronic,V-478,SN-2024-0219-895,INV-0219,2024-08-25,Operating Rooms,Floor 1
+Microscope,Microscope,Nihon Kohden,MX-153,SN-2022-0220-872,INV-0220,2022-10-11,Neonatal ICU,Floor 3
+Nebulizer,Nebulizer,Mindray,EC-183,SN-2025-0221-777,INV-0221,2025-12-24,Operating Rooms,Floor 1
+Pulse Oximeter,Pulse Oximeter,Fresenius,PM-552,SN-2024-0222-320,INV-0222,2024-01-28,Clinical Laboratory,Floor 2
+Centrifuge,Centrifuge,Philips,A-540,SN-2024-0223-794,INV-0223,2024-03-10,Adult ICU,Floor 3
+Microscope,Microscope,Fresenius,PM-783,SN-2021-0224-325,INV-0224,2021-07-10,Operating Rooms,Floor 1
+Neonatal Incubator,Neonatal Incubator,Nihon Kohden,MX-107,SN-2024-0225-316,INV-0225,2024-05-23,Inpatient Ward,Floor 2
+Infusion Pump,Infusion Pump,Siemens,A-435,SN-2021-0226-609,INV-0226,2021-02-05,Adult ICU,Floor 3
+Pulse Oximeter,Pulse Oximeter,GE Healthcare,V-489,SN-2023-0227-612,INV-0227,2023-08-05,Pediatrics,Floor 2
+Hematology Analyzer,Hematology Analyzer,Medtronic,MX-506,SN-2025-0228-119,INV-0228,2025-11-26,Emergency Department,Floor 1
+Medical Scale,Medical Scale,Philips,A-689,SN-2025-0229-826,INV-0229,2025-07-19,Clinical Laboratory,Floor 2
+Pulse Oximeter,Pulse Oximeter,Siemens,MX-514,SN-2024-0230-275,INV-0230,2024-08-27,Emergency Department,Floor 1
+Nebulizer,Nebulizer,Fresenius,EC-470,SN-2025-0231-964,INV-0231,2025-11-28,Adult ICU,Floor 3
+Mechanical Ventilator,Mechanical Ventilator,Drger,L-703,SN-2021-0232-505,INV-0232,2021-11-23,Clinical Laboratory,Floor 2
+Autoclave,Autoclave,Medtronic,V-441,SN-2021-0233-622,INV-0233,2021-11-13,Neonatal ICU,Floor 3
+Mechanical Ventilator,Mechanical Ventilator,Welch Allyn,PM-298,SN-2024-0234-844,INV-0234,2024-12-13,Outpatient Clinic,Floor 1
+Infusion Pump,Infusion Pump,Drger,MX-249,SN-2023-0235-277,INV-0235,2023-03-24,Operating Rooms,Floor 1
+Nebulizer,Nebulizer,GE Healthcare,EC-177,SN-2026-0236-575,INV-0236,2026-07-21,Neonatal ICU,Floor 3
+Microscope,Microscope,Nihon Kohden,L-797,SN-2024-0237-984,INV-0237,2024-08-20,Biomedical Storage,Basement
+Surgical Aspirator,Surgical Aspirator,GE Healthcare,L-169,SN-2025-0238-746,INV-0238,2025-12-21,Medical Imaging,Floor 1
+Autoclave,Autoclave,Siemens,PM-157,SN-2021-0239-417,INV-0239,2021-11-04,Outpatient Clinic,Floor 1
+Medical Scale,Medical Scale,Fresenius,MX-158,SN-2024-0240-178,INV-0240,2024-03-25,Outpatient Clinic,Floor 1
+Electrocardiograph,Electrocardiograph,Nihon Kohden,PM-619,SN-2026-0241-694,INV-0241,2026-03-15,Clinical Laboratory,Floor 2
+Hematology Analyzer,Hematology Analyzer,Mindray,L-929,SN-2023-0242-429,INV-0242,2023-02-15,Biomedical Storage,Basement
+Nebulizer,Nebulizer,Fresenius,PM-254,SN-2026-0243-205,INV-0243,2026-01-24,Emergency Department,Floor 1
+Surgical Aspirator,Surgical Aspirator,Philips,PM-761,SN-2021-0244-353,INV-0244,2021-06-14,Neonatal ICU,Floor 3
+Medical Scale,Medical Scale,Fresenius,PM-635,SN-2022-0245-472,INV-0245,2022-10-17,Biomedical Storage,Basement
+Anesthesia Machine,Anesthesia Machine,Siemens,L-518,SN-2021-0246-908,INV-0246,2021-08-07,Outpatient Clinic,Floor 1
+Surgical Aspirator,Surgical Aspirator,Philips,A-196,SN-2025-0247-390,INV-0247,2025-05-07,Pediatrics,Floor 2
+Sterilizer,Sterilizer,Nihon Kohden,V-441,SN-2022-0248-458,INV-0248,2022-08-07,Adult ICU,Floor 3
+Autoclave,Autoclave,B. Braun,V-709,SN-2024-0249-672,INV-0249,2024-06-26,Adult ICU,Floor 3
+Neonatal Incubator,Neonatal Incubator,Medtronic,V-786,SN-2022-0250-761,INV-0250,2022-01-22,Pediatrics,Floor 2
+Pulse Oximeter,Pulse Oximeter,Welch Allyn,A-118,SN-2024-0251-284,INV-0251,2024-06-23,Outpatient Clinic,Floor 1
+Ultrasound Machine,Ultrasound Machine,Medtronic,L-296,SN-2022-0252-258,INV-0252,2022-07-22,Inpatient Ward,Floor 2
+Electrocardiograph,Electrocardiograph,Siemens,MX-619,SN-2021-0253-777,INV-0253,2021-06-08,Pediatrics,Floor 2
+Surgical Aspirator,Surgical Aspirator,Nihon Kohden,V-711,SN-2022-0254-266,INV-0254,2022-09-28,Clinical Laboratory,Floor 2
+Hospital Bed,Hospital Bed,Nihon Kohden,V-838,SN-2021-0255-520,INV-0255,2021-07-02,Medical Imaging,Floor 1
+Anesthesia Machine,Anesthesia Machine,Drger,L-725,SN-2026-0256-339,INV-0256,2026-01-17,Operating Rooms,Floor 1
+Hematology Analyzer,Hematology Analyzer,Drger,A-928,SN-2023-0257-476,INV-0257,2023-03-10,Medical Imaging,Floor 1
+Microscope,Microscope,Fresenius,L-887,SN-2025-0258-614,INV-0258,2025-04-18,Operating Rooms,Floor 1
+Centrifuge,Centrifuge,B. Braun,V-936,SN-2022-0259-993,INV-0259,2022-07-25,Inpatient Ward,Floor 2
+Sterilizer,Sterilizer,Mindray,EC-592,SN-2022-0260-828,INV-0260,2022-03-01,Outpatient Clinic,Floor 1
+Centrifuge,Centrifuge,Philips,A-185,SN-2024-0261-560,INV-0261,2024-01-27,Neonatal ICU,Floor 3
+Centrifuge,Centrifuge,GE Healthcare,L-193,SN-2026-0262-457,INV-0262,2026-01-26,Inpatient Ward,Floor 2
+Vital Signs Monitor,Vital Signs Monitor,B. Braun,MX-505,SN-2025-0263-341,INV-0263,2025-03-16,Pediatrics,Floor 2
+Neonatal Incubator,Neonatal Incubator,Philips,A-329,SN-2024-0264-201,INV-0264,2024-08-02,Emergency Department,Floor 1
+Surgical Aspirator,Surgical Aspirator,GE Healthcare,V-139,SN-2026-0265-812,INV-0265,2026-04-24,Operating Rooms,Floor 1
+Infusion Pump,Infusion Pump,Fresenius,L-730,SN-2021-0266-119,INV-0266,2021-11-25,Emergency Department,Floor 1
+Sterilizer,Sterilizer,Drger,V-661,SN-2025-0267-213,INV-0267,2025-10-04,Biomedical Storage,Basement
+Autoclave,Autoclave,Drger,A-224,SN-2023-0268-529,INV-0268,2023-09-08,Emergency Department,Floor 1
+Nebulizer,Nebulizer,Fresenius,MX-213,SN-2021-0269-747,INV-0269,2021-03-13,Medical Imaging,Floor 1
+Centrifuge,Centrifuge,Nihon Kohden,V-835,SN-2024-0270-539,INV-0270,2024-04-12,Neonatal ICU,Floor 3
+Vital Signs Monitor,Vital Signs Monitor,Nihon Kohden,A-346,SN-2025-0271-291,INV-0271,2025-09-07,Biomedical Storage,Basement
+Electrocardiograph,Electrocardiograph,Welch Allyn,A-169,SN-2021-0272-499,INV-0272,2021-03-29,Pediatrics,Floor 2
+Surgical Light,Surgical Light,Mindray,EC-496,SN-2023-0273-865,INV-0273,2023-11-09,Outpatient Clinic,Floor 1
+Vital Signs Monitor,Vital Signs Monitor,Medtronic,MX-453,SN-2022-0274-890,INV-0274,2022-03-05,Inpatient Ward,Floor 2
+Microscope,Microscope,Medtronic,V-145,SN-2024-0275-933,INV-0275,2024-10-22,Outpatient Clinic,Floor 1
+Hospital Bed,Hospital Bed,Fresenius,EC-590,SN-2022-0276-164,INV-0276,2022-07-11,Neonatal ICU,Floor 3
+Medical Scale,Medical Scale,Mindray,A-306,SN-2023-0277-142,INV-0277,2023-04-02,Emergency Department,Floor 1
+Surgical Aspirator,Surgical Aspirator,Siemens,PM-507,SN-2026-0278-359,INV-0278,2026-04-28,Pediatrics,Floor 2
+Defibrillator,Defibrillator,Drger,A-465,SN-2024-0279-379,INV-0279,2024-09-25,Emergency Department,Floor 1
+Mechanical Ventilator,Mechanical Ventilator,Medtronic,L-509,SN-2025-0280-447,INV-0280,2025-05-07,Medical Imaging,Floor 1
+Hospital Bed,Hospital Bed,Fresenius,EC-609,SN-2024-0281-920,INV-0281,2024-01-02,Outpatient Clinic,Floor 1
+Electrocardiograph,Electrocardiograph,B. Braun,MX-540,SN-2023-0282-658,INV-0282,2023-01-14,Biomedical Storage,Basement
+Autoclave,Autoclave,Medtronic,MX-181,SN-2024-0283-413,INV-0283,2024-04-29,Outpatient Clinic,Floor 1
+Medical Scale,Medical Scale,Nihon Kohden,EC-536,SN-2025-0284-459,INV-0284,2025-12-28,Neonatal ICU,Floor 3
+Medical Scale,Medical Scale,Mindray,EC-990,SN-2025-0285-381,INV-0285,2025-11-21,Outpatient Clinic,Floor 1
+Defibrillator,Defibrillator,Philips,EC-752,SN-2025-0286-625,INV-0286,2025-02-01,Clinical Laboratory,Floor 2
+Hospital Bed,Hospital Bed,Mindray,V-969,SN-2025-0287-135,INV-0287,2025-12-04,Biomedical Storage,Basement
+Infusion Pump,Infusion Pump,Philips,V-897,SN-2025-0288-492,INV-0288,2025-01-27,Outpatient Clinic,Floor 1
+Microscope,Microscope,Mindray,PM-257,SN-2025-0289-480,INV-0289,2025-03-04,Medical Imaging,Floor 1
+Medical Scale,Medical Scale,Philips,PM-240,SN-2025-0290-507,INV-0290,2025-02-16,Pediatrics,Floor 2
+Surgical Aspirator,Surgical Aspirator,Siemens,V-216,SN-2023-0291-611,INV-0291,2023-02-06,Emergency Department,Floor 1
+Centrifuge,Centrifuge,B. Braun,PM-220,SN-2023-0292-820,INV-0292,2023-12-07,Operating Rooms,Floor 1
+Medical Scale,Medical Scale,Drger,PM-392,SN-2023-0293-225,INV-0293,2023-04-04,Medical Imaging,Floor 1
+Infusion Pump,Infusion Pump,Philips,L-276,SN-2021-0294-929,INV-0294,2021-12-30,Medical Imaging,Floor 1
+Surgical Aspirator,Surgical Aspirator,Medtronic,EC-166,SN-2024-0295-407,INV-0295,2024-04-08,Pediatrics,Floor 2
+Hospital Bed,Hospital Bed,GE Healthcare,A-620,SN-2022-0296-305,INV-0296,2022-05-17,Inpatient Ward,Floor 2
+Infusion Pump,Infusion Pump,Drger,L-126,SN-2025-0297-578,INV-0297,2025-02-24,Outpatient Clinic,Floor 1
+Hematology Analyzer,Hematology Analyzer,GE Healthcare,PM-188,SN-2024-0298-507,INV-0298,2024-06-24,Adult ICU,Floor 3
+Surgical Light,Surgical Light,Welch Allyn,L-887,SN-2021-0299-228,INV-0299,2021-11-03,Clinical Laboratory,Floor 2
+Surgical Aspirator,Surgical Aspirator,Philips,L-577,SN-2024-0300-231,INV-0300,2024-11-16,Pediatrics,Floor 2
